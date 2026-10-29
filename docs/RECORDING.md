@@ -55,5 +55,6 @@ and [source sizing/cropping](https://obsproject.com/kb/sources-guide).
 
 Keep world stereo off for the recommended presentation, and avoid rapid head
 motion. This is a normal flat video of your headset view, not a 360-degree video.
-No gameplay recording is bundled with the project; this guide is the recording
-workflow, not a claim that an OBS recording has been tested.
+Two tester-provided examples are available in the README's
+[Gameplay videos](../README.md#gameplay-videos) section. The MP4s are stored
+unchanged in `media/` and are not included in the runtime release ZIP.

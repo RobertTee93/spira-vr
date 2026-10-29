@@ -1,8 +1,10 @@
 # Third-party notices
 
 SpiraVR's original source is MIT licensed. Third-party components retain their
-own licenses. No FINAL FANTASY game executable, texture, model, shader dump,
-music, save, or other game asset is distributed here.
+own licenses. No standalone FINAL FANTASY game executable, texture, model,
+shader dump, music file, or save is distributed here. The gameplay recordings
+in `media/` depict the game; its audiovisual content remains the property of
+its respective rights holders and is not covered by SpiraVR's MIT license.
 
 | Component | Pinned source | Included material | License |
 |---|---|---|---|

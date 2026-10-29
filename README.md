@@ -28,6 +28,16 @@ This is an early, scene-dependent conversion. It is **not** a complete native
 6DoF VR port: leaning does not move the game camera, motion controllers are not
 used, and looking beyond the original camera can reveal missing scenery.
 
+## Gameplay videos
+
+Two recordings captured by the original tester:
+
+- [Watch gameplay clip 1](media/gameplay-01.mp4) — 10.9 MB
+- [Watch gameplay clip 2](media/gameplay-02.mp4) — 31.9 MB
+
+If GitHub does not show a player, use **View raw** or **Download raw file**.
+The original MP4 files are included unchanged.
+
 ## What works
 
 - **Look around Spira** using headset orientation, with a widened world projection.
