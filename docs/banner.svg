@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+<title id="title">SpiraVR</title><desc id="desc">See Spira from inside the world. A quiet blue horizon with drifting points of light.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091e31"/><stop offset="1" stop-color="#154c59"/></linearGradient><radialGradient id="glow"><stop stop-color="#b2f9e8" stop-opacity=".35"/><stop offset="1" stop-color="#b2f9e8" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<ellipse cx="1040" cy="190" rx="300" ry="190" fill="url(#glow)"/>
+<path d="M0 263Q180 221 330 257T650 249T980 239T1280 258V320H0Z" fill="#0a263b" opacity=".5"/>
+<path d="M0 290Q260 261 440 282T810 279T1280 275" fill="none" stroke="#79cfcc" opacity=".25"/>
+<g fill="#c1fff0"><circle cx="867" cy="94" r="3"/><circle cx="1100" cy="69" r="2"/><circle cx="1020" cy="185" r="4"/><circle cx="1178" cy="194" r="2"/><circle cx="939" cy="220" r="2"/><circle cx="1070" cy="125" r="2"/><circle cx="790" cy="202" r="1.5"/></g>
+<text x="80" y="143" font-family="Segoe UI,Arial,sans-serif" font-size="78" font-weight="600" letter-spacing="-2" fill="#effffb">Spira<tspan fill="#8fe7d5">VR</tspan></text>
+<text x="84" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="25" fill="#c2dbdf">See Spira from inside the world.</text>
+<text x="84" y="243" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#88bec5">FINAL FANTASY X · STEAMVR · CONTROLLER PLAY</text>
+</svg>

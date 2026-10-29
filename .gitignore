@@ -1,0 +1,30 @@
+# Personal configuration and recovery data
+/control.ini
+/local-settings.json
+/active-session.json
+/.sessions/
+/restore-result.txt
+/stereo-state.txt
+
+# Local builds, runtime and release packages
+/build/
+/dist/
+*.addon32
+*.dll
+*.obj
+*.lib
+*.exp
+*.pdb
+*.cso
+*.zip
+
+# Opt-in rendering diagnostics may contain game assets
+*.log
+/launcher.*
+/transition-*.csv
+/hud-texture-*
+/vr-eye-*
+/stereo-colour.*
+/stereo-depth.*
+/stereo-params.*
+/shader-diagnostics/
